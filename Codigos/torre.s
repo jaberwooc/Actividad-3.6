@@ -1,3 +1,8 @@
+/* Problema 3.6.5
+  En este programa lo que se realiza es basicamente el metodo de las torre de hanoi 
+   @Autor Jaberwooc
+   @Fecha 10 de diciembre de 2021
+    */ 
 .data
 	.balign 4
 prompt:	.asciz	"How many disk do you want to move? "
