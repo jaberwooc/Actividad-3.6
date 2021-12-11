@@ -1,3 +1,8 @@
+   /* Problema 3.6.4
+  En este programa lo que se realiza es dimprimir un texto con el nombre que sea incertado 
+   @Autor Jaberwooc
+   @Fecha 10 de diciembre de 2021
+    */ 
        .section        .bss
         .comm buffer, 48             
         .section        .data
