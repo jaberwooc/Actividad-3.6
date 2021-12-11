@@ -1,4 +1,8 @@
-
+/* Problema 3.6.1
+  En este programa lo que se realiza es dimprimir un texto con un loop pero realiza una pausa cuando lo hace 
+   @Autor Jaberwooc
+   @Fecha 10 de diciembre de 2021
+    */ 
 
 @ ---------------------------------------
 @	Data Section
