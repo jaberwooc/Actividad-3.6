@@ -1,4 +1,4 @@
-/* Problema 3.6.1
+/* Problema 3.6.3
   En este programa lo que se realiza es una pila donde se aguardara el elemento incertado en el registro 0
    @Autor Jaberwooc
    @Fecha 10 de diciembre de 2021
