@@ -1,3 +1,8 @@
+/* Problema 3.6.2
+  En este programa lo que se realiza es imprimir los numeros primos  
+   @Autor Jaberwooc
+   @Fecha 10 de diciembre de 2021
+    */ 
 .section	.bss
 .comm prime, 2000	@ reserve space for the primes
 
